@@ -34,6 +34,6 @@ I started with the basic HTML strcuture. Adding the <div> container to hold the 
 
 ## Author
 
-- Website - [https://www.your-site.com]
+- Website - [https://komans-hub.github.io/Social-links-profile-/]
 - Frontend Mentor - [https://www.frontendmentor.io/profile/Komans-Hub]
 - Twitter(x) - [https://x.com/OrisaonaAyool1]
